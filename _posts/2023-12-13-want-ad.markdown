@@ -5,7 +5,7 @@ date:   2023-12-13 16:44:45 +0200
 categories: jekyll update
 ---
 
- I'm thrilled to share that I am a part of the amazing organizing crew be of [Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/) at [NeurIPS, 2023](https://neurips.cc/virtual/2023) on December 16. Join our event for an enriching session where you will hear from the experts on the best efficient training practices! 🚀
+ I'm thrilled to share that I am a part of the amazing organizing crew of [Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/) at [NeurIPS, 2023](https://neurips.cc/virtual/2023) on December 16. Join our event for an enriching session where you will hear from the experts on the best efficient training practices! 🚀
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
