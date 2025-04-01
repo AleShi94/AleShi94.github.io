@@ -17,7 +17,11 @@ Here is a list of selected publications
 
 <h2 style="text-align: center;">Journal papers</h2>
 
+- Beaumont, Olivier, Lionel Eyraud-Dubois, Julien Herrmann, Alexis Joly, and Alena Shilova. "Optimal Re-Materialization Strategies for Heterogeneous Chains: How to Train Deep Neural Networks with Limited Memory." ACM Transactions on Mathematical Software 50, no. 2 (2024): 1-38.
+-  Mathieu, Timothée, Matheus Medeiros Centa, Riccardo Della Vecchia, Hector Kohler, Alena Shilova, Odalric-Ambrym Maillard, and Philippe Preux. "AdaStop: adaptive statistical testing for sound comparisons of Deep RL agents." Transactions on Machine Learning Research, 2024.
 - Beaumont, Olivier, Julien Herrmann, Guillaume Pallez and Alena Shilova. "Optimal memory-aware backpropagation of deep join networks." Philosophical Transactions of the Royal Society A 378.2166 (2020): 20190049.
+
+
 
 <h2 style="text-align: center;">Preprints</h2>
 
